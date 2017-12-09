@@ -1,3 +1,30 @@
+.page{
+background-color: #333;
+color: white;
+font-family: 'Armata', sans-serif;
+
+
+}
+
 .flash {
 	color: red;
 }
+
+.jumbotron {
+	color: white;
+	background-image: url("../images/back-to-the-future-delorean.jpg");
+	height: 50%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.jumbotron img {
+	height: 150px;
+}
+
+#graphic {
+	height: 300px;
+	border-radius: 5px;
+}
+
+	
